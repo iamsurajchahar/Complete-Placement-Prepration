@@ -19,8 +19,6 @@ Let me know,if you wish to add anything else to this content.
 ### THE MARKDOWN FILES CAN BE FOUND [HERE](md)
 <br><br>
  ***If you like the content and wish to support/sponsor it*** :heart:: 
- 
- <a href="https://www.buymeacoffee.com/anushka23g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a><br> or send me an email at anushkagupta20128@gmail.com
 # 🏆 What do I need to prepare for the interviews?
 
 To get your dream company, you should be good in the following while facing an interview:
@@ -76,8 +74,8 @@ Always talk through your solution, explain any trade-offs you are making between
 
  # 🏆  The sequence for studying Data Structures and Algorithms should be as follows: 
 
-1️⃣  [Arrays]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/ARRAYS.pdf") & [Matrix]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/MATRIX.pdf") \
-2️⃣  [String]("https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/STRING.pdf") \
+1️⃣  [Arrays]
+2️⃣  [String]
 3️⃣ Searching\
 4️⃣ Sorting\
 5️⃣ Hashing\
@@ -152,13 +150,6 @@ write some code in at least some of your interviews. You will be expected to kno
 of detail about your favorite programming language.
 <br><br><br>
 
-# 🏆 Projects:
-:heavy_check_mark: For examples of project you can check my other repositories [here](https://github.com/anushka23g?tab=repositories) , Will be adding more projects soon!
-<br>
-:heavy_check_mark: If you are a beginner and wish to learn Data Structures and Algorithms in a fun way :stuck_out_tongue_closed_eyes: , try working on [this](https://github.com/anushka23g/Learning-Made-Easy) project, It will help you clear a lot of concepts, make you confident about your skills and you'll gain better knowledge of DSA. <br>
-:unicorn: You can also contribute to the project and help the community if you wish to!  
-<br><br>
-
 # 🏆 SOME EXTRA TIPS:
 
 ## :beginner: Coding Practice
@@ -179,6 +170,5 @@ Will be soon adding resources for CS Fundamentals as well...
  
  ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
- Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: anushkagupta20128@gmail.com or ***[LinkedIn](https://www.linkedin.com/in/anushka-gupta-679496196/)***
  
  :heart: ***Thank you all for making this repository trend at Number 10, in the worldwide trending on Github*** 
